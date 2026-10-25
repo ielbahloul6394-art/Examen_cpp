@@ -1,0 +1,3 @@
+ Ce programme illustre les notions d'heritage et de polymorphisme en C++.
+ Il permet de representer plusieurs types de vehicules, notamment les voitures et les camions,
+ et d'afficher leurs caracteristiques.
